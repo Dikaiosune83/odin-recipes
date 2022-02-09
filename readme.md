@@ -1,0 +1,1 @@
+The current project is to build a recipe site to put the HTML i've learned so far into use.  I imagine I'll be using a lot of <h1>-<h6>, a fair bit of <p> and probably some <a href> and <img scr>.  Also a LOT of Linux Terminal.
